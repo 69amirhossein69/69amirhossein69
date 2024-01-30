@@ -5,7 +5,7 @@ web developer
 -------------
 
 * 🌍  I'm based in tehran\_iran
-* ✉️  You can contact me at [a.h.khalaje@gmail.com](mailto:a.h.khalaje@gmail.com)
+* ✉️  You can contact me at [a.h.khalaje@gmail.com](mailto:a.h.khalajasadigmail.com)
 * 🧠  I'm learning react and other stuff
 * 🤝  I'm open to collaborating on frontend web development
 
