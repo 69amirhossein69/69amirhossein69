@@ -9,9 +9,6 @@ web developer
 * 🧠  I'm learning react and other stuff
 * 🤝  I'm open to collaborating on frontend web development
 
-<a href="https://www.twitter.com/69amirhossein69" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/69amirhossein69?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 ### Skills
 
 <p align="left">
@@ -24,8 +21,7 @@ src="https://img.shields.io/twitter/follow/69amirhossein69?logo=twitter&style=fo
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/69amirhossein69" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/69amirhossein69" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/69amirhossein69" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
+<p align="left"> <a href="https://www.github.com/69amirhossein69" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/69amirhossein69" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 
 <b>My GitHub Stats</b>
 
