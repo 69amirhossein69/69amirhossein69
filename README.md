@@ -81,36 +81,36 @@
 
 
 
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px" /> Current Status <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px" />
 </h2>
 
 <div align="center">
-  <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
-
-```js
-⚡ Current Focus    : Frontend Development & AI Research
-🎯 Learning        : Advanced React Patterns & Neural Networks
-🌱 Growth Path     : Mastering AI @ Eyvanekey University
-🏗️ Building        : Innovative Web Solutions & ML Models
-🔭 Exploring       : Latest Tech Trends & AI Applications
-🎵 Coding to      : Lofi Beats & Electronic
-💫 Favorite Stack : React + TypeScript + TailwindCSS
-🌟 Fun Fact       : I turn coffee into code ☕ => 💻
-
-📚 Reading List:
-   ┣━━ Clean Code by Robert C. Martin
-   ┣━━ Deep Learning by Ian Goodfellow
-   ┗━━ Design Patterns by Gang of Four
-
-🎯 2024 Goals:
-   ┣━━ Master Advanced React Patterns
-   ┣━━ Contribute to Open Source
-   ┣━━ Build AI-Powered Web Apps
-   ┗━━ Share Knowledge through Blog Posts
-
-⚡ Motto: Debug && Design && Deploy 🚀
-```
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="250"/>
+      </td>
+      <td>
+        <div align="left">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=false&vCenter=true&repeat=false&width=435&lines=Hi+there!+I'm+Amirhossein+%F0%9F%91%8B" alt="Welcome" />
+          <br/>
+          <br/>
+          <h3>🎓 Education Journey</h3>
+          <img src="https://progress-bar.dev/80?title=Masters+in+AI&width=200&color=00FFFF" />
+          <br/>
+          <img src="https://progress-bar.dev/100?title=Bachelors+in+SE&width=200&color=00FFFF" />
+          
+          <h3>🚀 Current Adventures</h3>
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=false&vCenter=true&width=435&lines=Frontend+Development+%F0%9F%8E%A8;AI+Research+%F0%9F%A4%96;Open+Source+Contributing+%E2%AD%90;Building+Amazing+Web+Apps+%F0%9F%8C%9F" alt="Activities" />
+          
+          <h3>💫 Quick Facts</h3>
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=false&vCenter=true&width=435&lines=Based+in+Tehran%2C+Iran+%F0%9F%8C%83;Passionate+about+UI%2FUX+%F0%9F%8E%A8;Love+solving+problems+%F0%9F%92%A1;Always+learning+new+tech+%F0%9F%93%9A" alt="Facts" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -122,16 +122,32 @@
 </h2>
 
 <div align="center">
-  <a href="mailto:a.h.khalajasadi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/69amirhossein69">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="http://www.instagram.com/69amirhossein69">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://t.me/your_telegram">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="mailto:a.h.khalajasadi@gmail.com">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="65" height="65" alt="Email" />
+          <br>Email
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://github.com/69amirhossein69">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="65" height="65" alt="GitHub" />
+          <br>GitHub
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="http://www.instagram.com/69amirhossein69">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="65" height="65" alt="Instagram" />
+          <br>Instagram
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://t.me/your_telegram">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="65" height="65" alt="Telegram" />
+          <br>Telegram
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
