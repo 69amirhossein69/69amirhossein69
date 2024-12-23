@@ -10,12 +10,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=69amirhossein69&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%" alt="Trophy"/>
-</div>
-
-<br>
-
 <h2 align="center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px" /> Tech Mastery Level <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px" />
 </h2>
@@ -79,45 +73,6 @@ class AmirhosseinKhalajAsadi {
 ```
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=69amirhossein69&show_icons=true&theme=radical&count_private=true&ring_color=79ff97&include_all_commits=true&title_color=00FFFF&icon_color=79ff97&hide_border=true" width="49%" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=69amirhossein69&theme=radical&ring=00FFFF&fire=79ff97&hide_border=true" width="49%" alt="Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=69amirhossein69&custom_title=Contribution%20Graph&theme=react-dark&bg_color=141321&color=00FFFF&line=79ff97&point=fff&hide_border=true" width="98%" alt="Graph"/>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="mailto:a.h.khalajasadi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://github.com/69amirhossein69">
-    <img src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="http://www.instagram.com/69amirhossein69">
-    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=E1306C" />
-  </a>
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=gradient&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/69amirhossein69/count.svg" alt="Visitor Count"/>
 </div>
