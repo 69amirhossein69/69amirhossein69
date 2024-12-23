@@ -116,10 +116,3 @@ class AmirhosseinKhalajAsadi {
   </a>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=gradient&section=footer" width="100%"/>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=69amirhossein69&style=for-the-badge&color=brightgreen" alt="Profile Views">
-</p>
