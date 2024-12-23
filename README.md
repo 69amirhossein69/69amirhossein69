@@ -2,14 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Amirhossein%20Khalaj%20Asadi&fontSize=70&desc=Frontend%20Developer%20|%20AI%20Explorer&animation=twinkling&fontColor=00FFFF&descSize=20&descAlignY=62&descAlign=50"/>
 </div>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7EA&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=100&lines=%F0%9F%92%BB+Crafting+Digital+Experiences+with+Precision;%F0%9F%8C%9F+Where+Code+Meets+Creativity)](https://git.io/typing-svg)
 
-
-
-
-</div>
 
 <br>
 
