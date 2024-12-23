@@ -81,33 +81,56 @@
 
 
 
-
 <h2 align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px" /> Current Status <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px" />
 </h2>
 
 <div align="center">
-  <table>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=435&height=45&lines=Building+the+Future+with+Code+%F0%9F%9A%80" alt="Building Future" />
+  
+  <div align="center">
+    <img height="165em" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+    <br/>
+    <br/>
+    <div>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FFFF&center=true&multiline=true&repeat=false&random=false&width=435&height=125&lines=%F0%9F%8E%93+Pursuing+AI+Master's+%40+Eyvanekey+University;%F0%9F%92%BB+Software+Engineer+from+Damghan+University;%F0%9F%8C%9F+Specializing+in+Frontend+Development;%F0%9F%94%AD+Exploring+AI+%26+Machine+Learning" />
+      </a>
+    </div>
+  </div>
+
+  <br/>
+  
+  <table align="center">
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="250"/>
+        <img src="https://media4.giphy.com/media/n8i2cXmXHp45mGQkzZ/giphy.gif?cid=ecf05e47jkgbz25ymsr0mz49flrv7oqj37soke57m1utlgf2&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="70" height="70"/>
+        <br/>
+        <strong>Learning</strong>
+        <br/>
+        Advanced React & AI
       </td>
-      <td>
-        <div align="left">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=false&vCenter=true&repeat=false&width=435&lines=Hi+there!+I'm+Amirhossein+%F0%9F%91%8B" alt="Welcome" />
-          <br/>
-          <br/>
-          <h3>🎓 Education Journey</h3>
-          <img src="https://progress-bar.dev/80?title=Masters+in+AI&width=200&color=00FFFF" />
-          <br/>
-          <img src="https://progress-bar.dev/100?title=Bachelors+in+SE&width=200&color=00FFFF" />
-          
-          <h3>🚀 Current Adventures</h3>
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=false&vCenter=true&width=435&lines=Frontend+Development+%F0%9F%8E%A8;AI+Research+%F0%9F%A4%96;Open+Source+Contributing+%E2%AD%90;Building+Amazing+Web+Apps+%F0%9F%8C%9F" alt="Activities" />
-          
-          <h3>💫 Quick Facts</h3>
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=false&vCenter=true&width=435&lines=Based+in+Tehran%2C+Iran+%F0%9F%8C%83;Passionate+about+UI%2FUX+%F0%9F%8E%A8;Love+solving+problems+%F0%9F%92%A1;Always+learning+new+tech+%F0%9F%93%9A" alt="Facts" />
-        </div>
+      <td align="center">
+        <img src="https://media0.giphy.com/media/vnnoqBjIrJ73y/giphy.gif?cid=ecf05e47jx7nfyfkl7kh7r9sxvbjlddp5x32azlr8ps3z7gq&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="70" height="70"/>
+        <br/>
+        <strong>Working On</strong>
+        <br/>
+        Web & ML Projects
+      </td>
+      <td align="center">
+        <img src="https://media4.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif?cid=ecf05e47dp0u2n9xo0qw51m15u9l4mwa8rqpofpgjt8pmy7k&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="70" height="70"/>
+        <br/>
+        <strong>Location</strong>
+        <br/>
+        Tehran, Iran
+      </td>
+      <td align="center">
+        <img src="https://media2.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif?cid=ecf05e47dp0u2n9xo0qw51m15u9l4mwa8rqpofpgjt8pmy7k&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="70" height="70"/>
+        <br/>
+        <strong>Goals</strong>
+        <br/>
+        Innovation & Growth
       </td>
     </tr>
   </table>
@@ -124,26 +147,37 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96">
+      <td align="center" width="100">
         <a href="mailto:a.h.khalajasadi@gmail.com">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="65" height="65" alt="Email" />
-          <br>Email
+          <img src="https://media2.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif?cid=ecf05e47dp0u2n9xo0qw51m15u9l4mwa8rqpofpgjt8pmy7k&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="70" height="70"/>
+          <br/>
+          <strong>Email</strong>
         </a>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="100">
         <a href="https://github.com/69amirhossein69">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="65" height="65" alt="GitHub" />
-          <br>GitHub
+          <img src="https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47dp0u2n9xo0qw51m15u9l4mwa8rqpofpgjt8pmy7k&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="70" height="70"/>
+          <br/>
+          <strong>GitHub</strong>
         </a>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="100">
         <a href="http://www.instagram.com/69amirhossein69">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="65" height="65" alt="Instagram" />
-          <br>Instagram
+          <img src="https://media1.giphy.com/media/l41YmiCZ8HXvVl5M4/giphy.gif?cid=ecf05e47xgeqx68t1q677lktxsamw6q9e9q87pwxhway2hu1&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="70" height="70"/>
+          <br/>
+          <strong>Instagram</strong>
         </a>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="100">
         <a href="https://t.me/your_telegram">
+          <img src="https://media1.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif?cid=ecf05e47dp0u2n9xo0qw51m15u9l4mwa8rqpofpgjt8pmy7k&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="70" height="70"/>
+          <br/>
+          <strong>Telegram</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="65" height="65" alt="Telegram" />
           <br>Telegram
         </a>
