@@ -1,217 +1,114 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      font-family: 'Inter', sans-serif;
-      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
-      color: #fff;
-    }
-    
-    .tech-container {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 20px;
-    }
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Amirhossein%20Khalaj%20Asadi&fontSize=70&desc=Frontend%20Developer%20|%20AI%20Explorer&animation=twinkling&fontColor=00FFFF&descSize=20&descAlignY=62&descAlign=50"/>
+</div>
 
-    .skills-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-      gap: 20px;
-      margin: 20px 0;
-    }
 
-    .skill-card {
-      background: rgba(255, 255, 255, 0.1);
-      border-radius: 16px;
-      padding: 20px;
-      text-align: center;
-      transition: all 0.3s ease;
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      backdrop-filter: blur(10px);
-    }
 
-    .skill-card:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 8px 20px rgba(0,0,0,0.2);
-      border-color: #00FFFF;
-    }
+<br>
 
-    .skill-icon {
-      width: 65px;
-      height: 65px;
-      margin-bottom: 10px;
-    }
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px" /> Tech Arsenal <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px" />
+</h2>
 
-    .status-container {
-      background: rgba(255, 255, 255, 0.05);
-      border-radius: 20px;
-      padding: 30px;
-      margin: 40px 0;
-      position: relative;
-      overflow: hidden;
-    }
+<div align="center">
+  <h3>Core Technologies</h3>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
+        <br>Sass
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="icon" width="65" height="65" />
+        <br>Tailwind
+      </td>
+    </tr>
+  </table>
 
-    .status-code {
-      font-family: 'Fira Code', monospace;
-      position: relative;
-      z-index: 2;
-    }
+  <h3>Frontend Development</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  </p>
 
-    .status-container::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background: linear-gradient(45deg, #00FFFF20, #FF69B420);
-      animation: gradient 15s ease infinite;
-      z-index: 1;
-    }
+  <h3>Tools & Technologies</h3>
+  <p>
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  </p>
+</div>
 
-    .contact-section {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 30px;
-      padding: 40px 0;
-    }
+<br>
 
-    .contact-card {
-      background: rgba(255, 255, 255, 0.05);
-      border-radius: 20px;
-      padding: 30px;
-      text-align: center;
-      transition: all 0.3s ease;
-      position: relative;
-      overflow: hidden;
-    }
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px" /> Current Status <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px" />
+</h2>
 
-    .contact-card::after {
-      content: '';
-      position: absolute;
-      height: 2px;
-      width: 50px;
-      background: #00FFFF;
-      bottom: 0;
-      left: 50%;
-      transform: translateX(-50%);
-      transition: width 0.3s ease;
-    }
+<br>
 
-    .contact-card:hover::after {
-      width: 100px;
-    }
-
-    .contact-icon {
-      font-size: 2.5rem;
-      margin-bottom: 15px;
-      color: #00FFFF;
-    }
-
-    @keyframes gradient {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-
-    .section-title {
-      text-align: center;
-      font-size: 2.5rem;
-      margin: 40px 0;
-      color: #00FFFF;
-      text-shadow: 0 0 10px rgba(0, 255, 255, 0.5);
-    }
-  </style>
-</head>
-<body>
-  <div class="tech-container">
-    <h2 class="section-title">Tech Arsenal</h2>
-    
-    <div class="skills-grid">
-      <!-- Core Technologies -->
-      <div class="skill-card">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" class="skill-icon">
-        <h3>React</h3>
-        <p>Advanced</p>
-      </div>
-      <div class="skill-card">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" class="skill-icon">
-        <h3>JavaScript</h3>
-        <p>Expert</p>
-      </div>
-      <div class="skill-card">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" class="skill-icon">
-        <h3>TypeScript</h3>
-        <p>Intermediate</p>
-      </div>
-      <div class="skill-card">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" class="skill-icon">
-        <h3>Tailwind</h3>
-        <p>Advanced</p>
-      </div>
-      <div class="skill-card">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" class="skill-icon">
-        <h3>Sass</h3>
-        <p>Intermediate</p>
-      </div>
-      <div class="skill-card">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" class="skill-icon">
-        <h3>GitHub</h3>
-        <p>Advanced</p>
-      </div>
-    </div>
-
-    <div class="status-container">
-      <pre class="status-code">
+<div align="center">
+  <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+  
+```typescript
 class AmirhosseinKhalajAsadi {
+    readonly name = "Amirhossein Khalaj Asadi";
+    readonly location = "Tehran, Iran 🌃";
+    readonly education = {
+        masters: "AI @ Eyvanekey University 🤖",
+        bachelors: "Software Engineering 💻"
+    };
+    
     readonly status = {
-        currentRole: "Frontend Developer & AI Explorer 🚀",
-        location: "Tehran, Iran 🌃",
-        education: {
-            masters: "AI @ Eyvanekey University 🤖",
-            bachelors: "Software Engineering @ Damghan University 💻"
-        },
-        
-        currentlyWorking: {
-            frontend: ["React", "TypeScript", "TailwindCSS"],
-            aiProjects: ["Machine Learning", "Neural Networks"],
-            personal: "Building Dreams with Code ⚡"
-        },
-
-        interests: ["Web Development", "AI", "UI/UX Design"],
-        lifeMode: "Debug && Design && Deploy 🎯",
-        listening: "Lofi Beats 🎵"
+        coding: true,
+        learning: ["Advanced React", "AI/ML"],
+        listening: "Lofi Beats 🎵",
+        currentlyWorking: "Building Dreams with Code ⚡"
     };
 
-    readonly mission = "Crafting Digital Excellence 💫";
+    readonly lifeMode = "Debug && Design && Deploy 🚀";
 }
-      </pre>
-    </div>
+```
+</div>
 
-    <h2 class="section-title">Let's Connect</h2>
-    <div class="contact-section">
-      <div class="contact-card">
-        <div class="contact-icon">📧</div>
-        <h3>Email</h3>
-        <p>a.h.khalajasadi@gmail.com</p>
-      </div>
-      <div class="contact-card">
-        <div class="contact-icon">📱</div>
-        <h3>Phone</h3>
-        <p>+98 910 033 8699</p>
-      </div>
-      <div class="contact-card">
-        <div class="contact-icon">📍</div>
-        <h3>Location</h3>
-        <p>Tehran, Iran</p>
-      </div>
-      <div class="contact-card">
-        <div class="contact-icon">💼</div>
-        <h3>Portfolio</h3>
-        <p>github.com/69amirhossein69</p>
-      </div>
-    </div>
-  </div>
-</body>
-</html>
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect & Collaborate <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+</h2>
+
+<p align="center">
+  <a href="mailto:a.h.khalajasadi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/69amirhossein69">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="http://www.instagram.com/69amirhossein69">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
