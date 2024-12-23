@@ -37,17 +37,40 @@
   
   ---
   
-  ### 🎯 Current Status
-  ```yaml
-  location: Tehran, Iran 🌆
-  education: 
-    masters: AI @ Eyvanekey University 🤖
-    bachelors: Software Engineering @ Damghan University 💻
-  
-  focus: Frontend Development with AI Integration
-  learning: ["Advanced React", "Machine Learning", "UI/UX"]
-  status: "Debugging the future" 🚀
-  ```
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24">
+    Current Status
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24">
+  </h2>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="500"/>
+</div>
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+    </td>
+    <td>
+      
+```json
+{
+  "currently": {
+    "based": "Tehran, Iran 🌃",
+    "studying": "MSc in AI - Eyvanekey University 🤖",
+    "working": "Building the Web of Tomorrow 🚀"
+  },
+  "dailyMode": "Debug and Design ⚡"
+}
+```
+    </td>
+  </tr>
+</table>
+</div>
   
   ---
   
