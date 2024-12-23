@@ -79,67 +79,37 @@
   </table>
 </div>
 
+
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px" /> Current Status <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px" />
 </h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="250"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=380&height=45&lines=Frontend+Developer+%F0%9F%8C%9F;AI+Explorer+%F0%9F%A4%96;Problem+Solver+%F0%9F%92%A1;Code+Artisan+%E2%9A%A1" alt="Typing SVG" />
-        <br/>
-        <br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=380&height=45&lines=Building+Dreams+with+Code+%F0%9F%94%A5;Mastering+AI+%40+Eyvanekey+%F0%9F%8E%93;Based+in+Tehran%2C+Iran+%F0%9F%8C%83;Debug+%26%26+Design+%26%26+Deploy+%F0%9F%9A%80" alt="Typing SVG" />
-      </td>
-    </tr>
-  </table>
+  <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
-```typescript
-interface MagicalDeveloper {
-    name: string;
-    title: string;
-    location: string;
-    education: Education;
-    skills: Skills;
-    currentFocus: string[];
-    superpower: string;
-}
+```js
+⚡ Current Focus    : Frontend Development & AI Research
+🎯 Learning        : Advanced React Patterns & Neural Networks
+🌱 Growth Path     : Mastering AI @ Eyvanekey University
+🏗️ Building        : Innovative Web Solutions & ML Models
+🔭 Exploring       : Latest Tech Trends & AI Applications
+🎵 Coding to      : Lofi Beats & Electronic
+💫 Favorite Stack : React + TypeScript + TailwindCSS
+🌟 Fun Fact       : I turn coffee into code ☕ => 💻
 
-type Education = {
-    masters: string;
-    bachelors: string;
-}
+📚 Reading List:
+   ┣━━ Clean Code by Robert C. Martin
+   ┣━━ Deep Learning by Ian Goodfellow
+   ┗━━ Design Patterns by Gang of Four
 
-type Skills = {
-    frontend: string[];
-    ai: string[];
-    tools: string[];
-}
+🎯 2024 Goals:
+   ┣━━ Master Advanced React Patterns
+   ┣━━ Contribute to Open Source
+   ┣━━ Build AI-Powered Web Apps
+   ┗━━ Share Knowledge through Blog Posts
 
-const amirhossein: MagicalDeveloper = {
-    name: "✨ Amirhossein Khalaj Asadi ✨",
-    title: "Frontend Developer & AI Explorer",
-    location: "Tehran, Iran 🌃",
-    education: {
-        masters: "AI @ Eyvanekey University 🤖",
-        bachelors: "Software Engineering @ Damghan University 💻"
-    },
-    skills: {
-        frontend: ["React", "TypeScript", "TailwindCSS"],
-        ai: ["Machine Learning", "Neural Networks"],
-        tools: ["Git", "Figma", "VSCode"]
-    },
-    currentFocus: [
-        "Building amazing web experiences 🎨",
-        "Exploring the depths of AI 🔮",
-        "Contributing to open source ⭐"
-    ],
-    superpower: "Turning coffee into code ☕ => 💻"
-};
+⚡ Motto: Debug && Design && Deploy 🚀
 ```
 </div>
 
@@ -152,32 +122,16 @@ const amirhossein: MagicalDeveloper = {
 </h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <a href="mailto:a.h.khalajasadi@gmail.com">
-          <img src="https://techstack-generator.vercel.app/gmail-icon.svg" alt="icon" width="65" height="65" />
-          <br>Gmail
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://github.com/69amirhossein69">
-          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-          <br>GitHub
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="http://www.instagram.com/69amirhossein69">
-          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="icon" width="65" height="65" />
-          <br>Instagram
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://t.me/your_telegram">
-          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Telegram.svg" alt="icon" width="65" height="65" />
-          <br>Telegram
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="mailto:a.h.khalajasadi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/69amirhossein69">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="http://www.instagram.com/69amirhossein69">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://t.me/your_telegram">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </div>
