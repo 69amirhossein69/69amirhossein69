@@ -110,15 +110,15 @@
 
 <div align="center">
   <a href="mailto:a.h.khalajasadi@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" height="50"/>
+    <img src="https://img.icons8.com/?size=100&id=l8GURTKU12XE&format=png&color=000000" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/69amirhossein69" target="_blank">
-    <img src="https://img.icons8.com/plasticine/100/000000/github.png" width="50" height="50"/>
+    <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="http://www.instagram.com/69amirhossein69" target="_blank">
-    <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" height="50"/>
+    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/AMIRHOSSEIN_AC69" target="_blank">
