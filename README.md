@@ -122,6 +122,6 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/AMIRHOSSEIN_AC69)" target="_blank">
-    <img src="(https://icons8.com/icon/kIwX3xX4Xaym/telegram-app)](https://img.icons8.com/?size=100&id=kIwX3xX4Xaym&format=png&color=000000)" width="50" height="50"/>
+    <img src="https://icons8.com/icon/114954/telegram-app" width="50" height="50"/>
   </a>
 </div>
