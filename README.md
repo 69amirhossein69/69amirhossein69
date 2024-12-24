@@ -121,8 +121,7 @@
     <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/AMIRHOSSEIN_AC69)" target="_blank">
-    <img src="![image](https://github.com/user-attachments/assets/54374945-a04d-42ef-b52d-b7d5398d6e57)
-" width="50" height="50"/>
+  <a href="https://t.me/AMIRHOSSEIN_AC69" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=114954&format=png&color=000000" width="50" height="50"/>
   </a>
 </div>
