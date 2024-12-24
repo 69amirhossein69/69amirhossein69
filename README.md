@@ -121,7 +121,7 @@
     <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/your_telegram" target="_blank">
-    <img src="https://img.icons8.com/plasticine/100/000000/telegram-app.png" width="50" height="50"/>
+  <a href="https://t.me/AMIRHOSSEIN_AC69)" target="_blank">
+    <img src="[https://img.icons8.com/plasticine/100/000000/telegram-app.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBhXlA3nSIPafrQhnsoRByurPGfmbWSKq0Ng&s)" width="50" height="50"/>
   </a>
 </div>
