@@ -122,6 +122,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/AMIRHOSSEIN_AC69)" target="_blank">
-    <img src="[https://img.icons8.com/plasticine/100/000000/telegram-app.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBhXlA3nSIPafrQhnsoRByurPGfmbWSKq0Ng&s)" width="50" height="50"/>
+    <img src="![image](https://github.com/user-attachments/assets/641c745e-1401-4114-82ed-014b0595f05d)
+" width="50" height="50"/>
   </a>
 </div>
