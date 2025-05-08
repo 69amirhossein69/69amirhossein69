@@ -46,10 +46,6 @@
         <br>MUI
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="icon" width="65" height="65" />
-        <br>Bootstrap
-      </td>
-      <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="icon" width="65" height="65" />
         <br>Git
       </td>
@@ -70,10 +66,6 @@
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" alt="icon" width="65" height="65" />
         <br>Vite
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="icon" width="65" height="65" />
-        <br>Figma
       </td>
     </tr>
   </table>
