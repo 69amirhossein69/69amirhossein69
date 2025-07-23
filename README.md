@@ -83,7 +83,9 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img align="center" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+        <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+</div>
       </td>
       <td width="50%" align="center">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=380&height=50&lines=Frontend+Developer+%F0%9F%8C%9F;AI+Explorer+%F0%9F%A4%96;Problem+Solver+%F0%9F%92%A1;Code+Artisan+%E2%9A%A1" alt="Typing SVG" />
